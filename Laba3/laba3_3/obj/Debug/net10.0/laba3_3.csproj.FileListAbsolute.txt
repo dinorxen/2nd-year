@@ -1,0 +1,14 @@
+D:\SAKOD\Laba3\laba3_3\bin\Debug\net10.0\laba3_3.exe
+D:\SAKOD\Laba3\laba3_3\bin\Debug\net10.0\laba3_3.deps.json
+D:\SAKOD\Laba3\laba3_3\bin\Debug\net10.0\laba3_3.runtimeconfig.json
+D:\SAKOD\Laba3\laba3_3\bin\Debug\net10.0\laba3_3.dll
+D:\SAKOD\Laba3\laba3_3\bin\Debug\net10.0\laba3_3.pdb
+D:\SAKOD\Laba3\laba3_3\obj\Debug\net10.0\laba3_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\SAKOD\Laba3\laba3_3\obj\Debug\net10.0\laba3_3.AssemblyInfoInputs.cache
+D:\SAKOD\Laba3\laba3_3\obj\Debug\net10.0\laba3_3.AssemblyInfo.cs
+D:\SAKOD\Laba3\laba3_3\obj\Debug\net10.0\laba3_3.csproj.CoreCompileInputs.cache
+D:\SAKOD\Laba3\laba3_3\obj\Debug\net10.0\laba3_3.dll
+D:\SAKOD\Laba3\laba3_3\obj\Debug\net10.0\refint\laba3_3.dll
+D:\SAKOD\Laba3\laba3_3\obj\Debug\net10.0\laba3_3.pdb
+D:\SAKOD\Laba3\laba3_3\obj\Debug\net10.0\laba3_3.genruntimeconfig.cache
+D:\SAKOD\Laba3\laba3_3\obj\Debug\net10.0\ref\laba3_3.dll
