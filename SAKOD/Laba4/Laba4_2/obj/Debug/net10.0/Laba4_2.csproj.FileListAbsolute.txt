@@ -1,0 +1,14 @@
+D:\SAKOD\Laba4\Laba4_2\bin\Debug\net10.0\Laba4_2.exe
+D:\SAKOD\Laba4\Laba4_2\bin\Debug\net10.0\Laba4_2.deps.json
+D:\SAKOD\Laba4\Laba4_2\bin\Debug\net10.0\Laba4_2.runtimeconfig.json
+D:\SAKOD\Laba4\Laba4_2\bin\Debug\net10.0\Laba4_2.dll
+D:\SAKOD\Laba4\Laba4_2\bin\Debug\net10.0\Laba4_2.pdb
+D:\SAKOD\Laba4\Laba4_2\obj\Debug\net10.0\Laba4_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\SAKOD\Laba4\Laba4_2\obj\Debug\net10.0\Laba4_2.AssemblyInfoInputs.cache
+D:\SAKOD\Laba4\Laba4_2\obj\Debug\net10.0\Laba4_2.AssemblyInfo.cs
+D:\SAKOD\Laba4\Laba4_2\obj\Debug\net10.0\Laba4_2.csproj.CoreCompileInputs.cache
+D:\SAKOD\Laba4\Laba4_2\obj\Debug\net10.0\Laba4_2.dll
+D:\SAKOD\Laba4\Laba4_2\obj\Debug\net10.0\refint\Laba4_2.dll
+D:\SAKOD\Laba4\Laba4_2\obj\Debug\net10.0\Laba4_2.pdb
+D:\SAKOD\Laba4\Laba4_2\obj\Debug\net10.0\Laba4_2.genruntimeconfig.cache
+D:\SAKOD\Laba4\Laba4_2\obj\Debug\net10.0\ref\Laba4_2.dll
