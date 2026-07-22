@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Laba2_ball/1.0.0": {
+        "runtime": {
+          "Laba2_ball.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Laba2_ball/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

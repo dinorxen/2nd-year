@@ -1,0 +1,131 @@
+body {
+    margin: 0;
+    font-family: Verdana;
+}
+
+.page {
+    min-height: 100vh;
+    background-image: url("bg-illu4.jpg");
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu {
+    display: grid;
+    grid-template-columns: repeat(3, 200px);
+    grid-template-rows: repeat(3, 200px);
+}
+
+.menu-item,
+.menu-logo {
+    color: white;
+    text-decoration: none;
+    font-size: 28px;
+    text-align: center;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu-item {
+    word-spacing: 100px;
+    text-align: center;
+}
+
+.menu-item span {
+    display: block;
+}
+
+.menu-logo {
+    flex-direction: column;
+}
+
+.menu-logo img {
+    width: 140px;
+}
+
+.menu-logo p {
+    font-size: 13px;
+}
+
+.purple {
+    background-color: #880088;    
+}
+
+.purple:hover {
+    background-color: #884488;
+}
+
+.blue {
+    background-color: #000088;
+}
+
+.blue:hover {
+    background-color: #444488;
+}
+
+.red {
+    background-color: #880000;
+}
+
+.red:hover {
+    background-color: #884444;
+}
+
+@media (max-width: 600px) {
+    body {
+        margin: 0;
+        font-family: Verdana;
+    }
+
+    .page {
+        background-image: url("bg-illu1.jpg");
+        background-position: center top;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .menu {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        width: 290px;
+        gap: 20px;
+    }   
+
+    .menu-item {
+        width: 300px;
+        height: 50px;
+        font-size: 17px;
+    }
+
+    .menu-item {
+        word-spacing: normal;
+        white-space: nowrap;
+    }
+
+    .menu-logo {
+        width: 285px;
+        height: auto;
+    }
+
+    .menu-logo img {
+        width: 100px;
+    }
+
+    .menu-logo p {
+        display: none;
+    }
+    .desktop-text {
+        display: none;
+    }
+
+    .mobile-text {
+        display: inline;
+    }
+}

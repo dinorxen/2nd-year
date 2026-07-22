@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="laba7/laba7.csproj" />
+  <Project Path="laba7_2/laba7_2.csproj" Id="9eefb236-de06-40f3-9608-7508b76b92cf" />
+  <Project Path="laba7_3/laba7_3.csproj" Id="e819a94a-1fea-4b45-84cc-1854c6ce8863" />
+</Solution>

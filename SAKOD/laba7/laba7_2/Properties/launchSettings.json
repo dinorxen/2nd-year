@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "laba7_2": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}

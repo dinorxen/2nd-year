@@ -1,0 +1,113 @@
+.index {
+    background-color: #eeffff;
+    font-family: "Times New Roman", serif;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+h1 {
+    text-align: center;
+    color: brown;
+}
+
+.web {
+    font-weight: bold;
+}
+
+.build {
+    font-style: italic;
+}
+
+.section-green {
+    color: green;
+}
+
+.section-blue {
+    color: blue;
+}
+
+.list-square {
+    list-style-type: square;
+}
+
+.list-roman {
+    list-style-type: upper-roman;
+}
+
+.index1 {
+    text-align: justify;
+}
+
+a:link {
+    color: #808080;
+}
+
+a:visited {
+    color: #800000; 
+}
+
+
+
+
+.text {
+    background-color: #ffffcc;
+    font-family: "Times New Roman", serif;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.img-right {
+    float: right;
+    width: 300px;
+    margin-right: 980px;
+}
+
+.text1 {
+    text-align: justify;
+}
+
+.link-center {
+    margin-top: 250px;
+    text-align: center;
+
+}
+
+
+
+
+.grafika {
+    background-color: #ccffcc;
+    font-family: "Times New Roman", serif;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.image-title{
+    color: #006666;
+    text-align: center;
+}
+
+.where {
+    color: #0bcc60;
+}
+
+.what {
+    color: #910e8d;
+}
+
+.what2 {
+    color: #8d4c14;
+}
+
+.empty {
+    list-style-type: circle;
+}
+
+.photoshop {
+    float: right;
+    width: 300px;
+}
+
+.jir {
+    font-weight: bold;
+}

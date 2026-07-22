@@ -1,0 +1,188 @@
+body {
+    font-family: Arial;
+    background-color: #f0f2f5;
+    margin: 0;
+    padding: 20px;
+    color: #333;
+    display: flex;
+    flex-direction: column;     
+    align-items: center;
+}
+
+
+.header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    padding-left: 10px;
+    width: 100%;
+    max-width: 900px;
+}
+
+.logo {
+    width: 67px;
+    height: 25px;
+    background-image: url('product-common-sprite.png'); 
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    margin-right: 25px;
+}
+
+.header h1 {
+    color: #3281b9;
+    font-weight: normal;
+    font-size: 26px;
+    margin: 0;
+    margin-left: 85px;
+}
+
+.container {
+    display: flex;
+    width: 100%;
+    max-width: 900px;
+}
+
+.sidebar {
+    width: 150px;
+    margin-right: 20px;
+    flex-shrink: 0;
+}
+
+.menu-block {
+    background-color: #fff;
+    border: 1px solid #d4d4d4;
+    margin-bottom: 15px;
+    border-radius: 8px 8px 0 0;
+}
+
+.menu-header {
+    background-color: #2b7bb9;
+    color: #fff;
+    padding: 8px 10px;
+    font-size: 14px;
+    border-radius: 7px 7px 0 0;
+}
+.sidebar ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.sidebar li a {
+    display: block;
+    padding: 8px 10px;
+    text-decoration: none;
+    color: #777;
+    font-size: 13px;
+}
+
+.sidebar li a:hover {
+    background-color: #f2f2f2;
+}
+
+.main-content {
+    background-color: #fff;
+    padding: 20px 25px;
+    border: 1px solid #d4d4d4;
+    border-radius: 5px;
+}
+
+.intro-text {
+    color: #3281b9;
+    margin-top: 0;
+    margin-bottom: 20px;
+    font-size: 15px;
+}
+
+fieldset {
+    border: 1px solid #a82222; 
+    border-radius: 6px;
+    padding: 15px 20px;
+    margin-bottom: 20px;
+}
+
+legend {
+    color: #666;
+    padding: 0 5px;
+    font-size: 14px;
+}
+
+.form-row {
+    display: flex;
+    margin-bottom: 15px;
+    gap: 30px;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    margin-bottom: 5px;
+    font-size: 13px;
+    color: black;
+}
+
+input[type="text"],
+input[type="email"],
+select {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+    width: 200px;
+    box-sizing: border-box;
+    font-size: 13px;
+}
+
+textarea {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+    width: 250px; 
+    height: 75px;
+    resize: vertical;
+    box-sizing: border-box;
+    font-size: 13px;
+}
+
+.bottom-section {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.checkbox-group {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    font-size: 13px;
+}
+
+.color-group {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+input[type="color"] {
+    width: 40px;
+    height: 22px;
+    border: 1px solid #888;
+}
+
+.form-actions {
+    display: flex;
+    gap: 5px;
+}
+
+.btn {
+    background-color: #2b7bb9;
+    color: white;
+    border: none;
+    padding: 6px 18px;
+    border-radius: 2px; 
+    cursor: pointer;
+    font-size: 13px;
+    font-weight: bold;
+}
